@@ -1,1 +1,3 @@
-# MyFriends-DTSApp
+# MyFriends-App
+
+# Screenshot
